@@ -1,0 +1,3 @@
+[submodule "Sub-module"]
+	path = Sub-module
+	url = https://github.com/ArusikA/Sub-module.git
